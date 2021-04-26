@@ -4,11 +4,14 @@
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
+  font-weight: bold;
   line-height: 1.42857143;
   color: #555
 }
-h2{
-  margin-bottom: 30px;
+h1{
+  margin-bottom: 30px !important;
+  margin-bottom: 40px;
+  font-weight: bold;
 }
 .img-container{
   text-align: center;
@@ -18,7 +21,7 @@ h2{
   margin-bottom: 8px;
 }
 .txt-number,.txt-bgnumber{
-  font-size: 12px;
+  font-size: 13px;
 }
 .form-group{
   margin-bottom: 30px;
