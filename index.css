@@ -15,6 +15,7 @@ h2{
 }
 .img-container .img-thumbnail{
   width: 200px;
+  margin-bottom: 8px;
 }
 .txt-number,.txt-bgnumber{
   font-size: 12px;
